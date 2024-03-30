@@ -29,7 +29,7 @@ pip install requests matplotlib
 To use the Stock Portfolio Tracker, run the script from your terminal:
 
 ```bash
-python stock_portfolio_tracker.py
+python Stock_portfolio_tracker.py
 ```
 
 Follow the interactive prompts to manage your stock portfolio:
